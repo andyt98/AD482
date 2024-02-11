@@ -1,0 +1,1 @@
+oc create -f resources/application-topic.yaml
