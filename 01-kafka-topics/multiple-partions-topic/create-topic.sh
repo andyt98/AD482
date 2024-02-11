@@ -1,0 +1,1 @@
+kubectl create -f call-detail-records-topic.yaml

@@ -1,0 +1,1 @@
+kubectl create -f one-partition-topic.yaml
