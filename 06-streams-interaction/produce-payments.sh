@@ -1,0 +1,1 @@
+python scripts/produce_integer_payments.py payments

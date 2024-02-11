@@ -1,0 +1,1 @@
+python streams-interaction/scripts/consume_integer_payments.py large-payments
