@@ -1,0 +1,1 @@
+python scripts/produce_integers.py humidity-conditions
