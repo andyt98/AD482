@@ -1,0 +1,1 @@
+python scripts/produce_vehicle_positions.py
